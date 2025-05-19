@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linkedin/linkedin-original.svg" height="25" alt="linkedin logo"  />
-  <img src="[https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/facebook/facebook-original.svg)" height="25" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/facebook/facebook-original.svg" height="25" alt="facebook logo"  />
 </div>
 
 ###
@@ -22,7 +22,7 @@
 ###
 
 <div align="left">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original-wordmark.svg)" height="40" alt="python logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
