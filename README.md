@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="[https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linkedin/linkedin-original.svg)" height="25" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linkedin/linkedin-original.svg" height="25" alt="linkedin logo"  />
   <img src="[https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/facebook/facebook-original.svg)" height="25" alt="facebook logo"  />
 </div>
 
