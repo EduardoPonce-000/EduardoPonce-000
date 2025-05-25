@@ -13,9 +13,15 @@
 
 ###
 
-<p align="left">I'm Eduardo Ponce from Mexico<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Eduardo Ponce from Mexico</p>
+<br>
+- 🎓 I’m currently a 9th semester Actuarial Science student at the Benemérita Universidad Autónoma de Puebla<br>
+- 🔭 I’m working on developing skills in data analysis and risk management<br>
+- 📚 I'm currently learning advanced statistical modeling, data visualization, and predictive analytics<br>
+- ⚡ In my free time I enjoy exploring new technologies, analyzing real-world data sets, and improving my coding skills
 
 ###
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
